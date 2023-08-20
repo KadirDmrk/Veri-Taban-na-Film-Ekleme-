@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veri Tabanına Resim Ekleme", "Veri Tabanına Resim Ekleme\Veri Tabanına Resim Ekleme.csproj", "{A16FBD44-3146-40B4-907C-E961C4DF7F34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A16FBD44-3146-40B4-907C-E961C4DF7F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16FBD44-3146-40B4-907C-E961C4DF7F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16FBD44-3146-40B4-907C-E961C4DF7F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16FBD44-3146-40B4-907C-E961C4DF7F34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B59A2E9F-8731-4DCA-87C4-A86C887EC865}
+	EndGlobalSection
+EndGlobal
